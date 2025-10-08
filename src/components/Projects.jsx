@@ -31,7 +31,7 @@ const Projects = () => {
               </p>
               <div className="project-links">
                 <a
-                  href="https://github.com/Akilan247/ats-backend"
+                  href="https://github.com/Akilan247/applicant-tracking-system"
                   className="project-link"
                   aria-label="View ATS backend code on GitHub"
                 >

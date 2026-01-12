@@ -51,6 +51,9 @@ const Skills = () => {
                 <span className="skill-tag" role="button" tabIndex="0">HTML</span>
                 <span className="skill-tag" role="button" tabIndex="0">CSS</span>
                 <span className="skill-tag" role="button" tabIndex="0">JavaScript</span>
+                <span className="skill-tag" role="button" tabIndex="0">Selenium</span>
+                <span className="skill-tag" role="button" tabIndex="0">TestNG</span>
+
               </div>
             </div>
           </div>

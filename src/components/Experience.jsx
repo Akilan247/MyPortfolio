@@ -12,7 +12,6 @@ const Experience = () => {
         <div className="experience-timeline">
           <div className="experience-item">
             <div className="experience-dot"></div>
-
             <div className="experience-content">
               <div className="glass-card">
                 <h3 className="experience-title">Automation Engineer</h3>
@@ -26,6 +25,11 @@ const Experience = () => {
               </div>
             </div>
 
+          </div>
+        </div>
+        <div className="experience-timeline">
+          <div className="experience-item">
+            <div className="experience-dot"></div>
             <div className="experience-content">
               <div className="glass-card">
                 <h3 className="experience-title">Telecommunications Intern</h3>
